@@ -1,4 +1,4 @@
-## 🛒 Online Store 
+## 🛒 Online Store Database Using SQL Server
 
 ![Logo](https://github.com/IzaanAnjum98/Online-Store_SQL/blob/main/Logo.jpg)
 
