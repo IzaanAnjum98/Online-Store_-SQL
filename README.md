@@ -98,7 +98,8 @@ INSERT INTO Customers (FirstName, LastName, Email, Phone, Address, City, State, 
 VALUES 
 ('John', 'Doe', 'john.doe@example.com', '123-456-7890', '123 Main St', 'New York', 'NY', '10001', 'USA'),
 ('Jane', 'Smith', 'jane.smith@example.com', '234-567-8901', '456 Oak St', 'Madison', 'WI', '53703', 'USA'),
-('Harshad', 'Patel', 'harshad.patel@example.com', '345-678-9012', '789 Dalal St', 'Mumbai', 'Maharashtra', '41520', 'INDIA');
+('Harshad', 'Patel', 'harshad.patel@example.com', '345-678-9012', '789 Dalal St', 'Mumbai', 'Maharashtra', '41520', 'INDIA')
+('Izaan','Anjum','izaananjum@example.com','923-456-7000','108 DHA St','Weatherfield','WI','62701','USA');
 
 -- Insert sample data into Orders Table
 INSERT INTO Orders (CustomerID, OrderDate, TotalAmount)
