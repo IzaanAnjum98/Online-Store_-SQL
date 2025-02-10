@@ -1,4 +1,8 @@
 ## 🛒 Online Store Database Schema
+
+![Logo](https://github.com/IzaanAnjum98/Online-Store_SQL/blob/main/Logo.jpg)
+
+
 A well-structured relational database schema for an online store, designed using SQL Server. It includes tables for customers, products, categories, orders, and order items, ensuring efficient data management for e-commerce applications.
 
 📌 Schema Overview
