@@ -1,4 +1,4 @@
-## 🛒 Online Store Database Schema
+## 🛒 Online Store 
 
 ![Logo](https://github.com/IzaanAnjum98/Online-Store_SQL/blob/main/Logo.jpg)
 
